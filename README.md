@@ -1,9 +1,10 @@
 # 🎨 Hand-Tracking Drawing App
-
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python">
 <img src="https://img.shields.io/badge/OpenCV-GPU%20Optimized-green?logo=opencv">
 <img src="https://img.shields.io/badge/MediaPipe-Hand%20Tracking-orange?logo=google">
 <img src="https://img.shields.io/badge/License-MIT-purple">
+</p>
 
 ✋🤖 Draw in the air using only your fingers.  
 GPU-Accelerated • MediaPipe Hand Tracking • Rainbow Brush • Infinite Canvas  
